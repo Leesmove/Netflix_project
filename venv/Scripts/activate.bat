@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\esper\Desktop\Docs_Esperanza\github\Proj_data_analysis\03_Netflix\venv
+set VIRTUAL_ENV=C:\Users\esper\Desktop\Docs_Esperanza\github\Proj_data_analysis\03_Netflix\Netflix_project\venv
 
 if not defined PROMPT set PROMPT=$P$G
 
