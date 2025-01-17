@@ -2,7 +2,7 @@ from sqlalchemy import create_engine
 import pandas as pd
 
 # Ruta del archivo CSV
-file_path = r"C:\Users\esper\Desktop\Docs_Esperanza\github\Proj_data_analysis\03_Netflix\Netflix_project\Netflix_cleaned.csv"
+file_path = r"C:\Users\esper\Desktop\Docs_Esperanza\github\Proj_data_analysis\03_Netflix\Netflix_project\data\Netflix_cleaned.csv"
 
 # Cargar los datos desde el archivo CSV
 df = pd.read_csv(file_path)
