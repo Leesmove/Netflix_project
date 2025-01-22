@@ -42,7 +42,7 @@ Las siguientes visualizaciones fueron creadas en Power BI para analizar los dato
 - **Tendencias anuales:** Evolución del número de títulos a lo largo de los años.
 - **Géneros populares:** Comparación de los géneros más vistos.
 
-![Dashboard Principal](https://drive.google.com/file/d/188co2WeCRRWTw_6nYqp4rukuDy_kxEhs/view?usp=drive_link)
+![Dashboard Principal](https://drive.google.com/file/d/188co2WeCRRWTw_6nYqp4rukuDy_kxEhs/view)
 
 ## Acceso al Dashboard  
 
