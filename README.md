@@ -34,6 +34,23 @@ Este proyecto analiza los datos de Netflix para identificar tendencias, patrones
 6. **Actuar**
    - Recomendaciones finales basadas en los análisis.
 
+## Visualizaciones en Power BI
+
+Las siguientes visualizaciones fueron creadas en Power BI para analizar los datos de Netflix:
+
+- **Mapa de burbujas:** Muestra la distribución de contenido por país.
+- **Tendencias anuales:** Evolución del número de títulos a lo largo de los años.
+- **Géneros populares:** Comparación de los géneros más vistos.
+
+![Dashboard Principal](C:\Users\esper\Desktop\Docs_Esperanza\github\Proj_data_analysis\03_Netflix\Netflix_project\data\Dashboard_netflix.pdf)
+
+## Acceso al Dashboard  
+
+Puedes ver el informe interactivo de Power BI en el siguiente enlace:  
+
+[Ver Dashboard en Power BI]([text](https://app.powerbi.com/reportEmbed?reportId=72e691af-4da4-457b-b5f9-6d0d4bb4e0c5&autoAuth=true&ctid=dd505be5-ec69-47f5-92df-caa55febf5fa))
+
+
 ## Instrucciones de Uso
 
 1. Clonar el repositorio:
