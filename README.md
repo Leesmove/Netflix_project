@@ -48,7 +48,7 @@ Las siguientes visualizaciones fueron creadas en Power BI para analizar los dato
 
 Puedes ver el informe interactivo de Power BI en el siguiente enlace:  
 
-[Ver Dashboard en Power BI]([text](https://app.powerbi.com/reportEmbed?reportId=72e691af-4da4-457b-b5f9-6d0d4bb4e0c5&autoAuth=true&ctid=dd505be5-ec69-47f5-92df-caa55febf5fa))
+[Ver Dashboard en Power BI](https://app.powerbi.com/reportEmbed?reportId=72e691af-4da4-457b-b5f9-6d0d4bb4e0c5&autoAuth=true&ctid=dd505be5-ec69-47f5-92df-caa55febf5fa))
 
 
 ## Instrucciones de Uso
